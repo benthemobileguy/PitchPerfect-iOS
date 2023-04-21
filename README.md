@@ -11,9 +11,7 @@ Basic features Based on the criteria found in here:
 
 |Home|Sound Effects|Reviewer Remark|
 |--|---|----------------------|
-|![Home](ScreenShots/ScreenShot1.png)|
-![Sound Effects](ScreenShots/ScreenShot2.png)|
-![Reviewer Remark](ScreenShots/ScreenShot3.png)|
+|![Home](ScreenShots/ScreenShot1.png)| ![Sound Effects](ScreenShots/ScreenShot2.png)| ![Reviewer Remark](ScreenShots/ScreenShot3.png)|
 
 ## Implementation
 
