@@ -9,7 +9,8 @@ Basic features Based on the criteria found in here:
 - [Project Rubric](https://docs.google.com/document/d/1LlcUT90j-ItbRQpB3ivLHwjP-KgKOUdoOLpz0WirpSo/pub?embedded=true)
 
 
-|Home|Sound Effects|Reviewer Remark|
+|Home|Sound Effects|
+Reviewer Remark|
 |--|---|----------------------|
 |![Home](ScreenShots/ScreenShot1.png)| ![Sound Effects](ScreenShots/ScreenShot2.png)| 
 ![Reviewer Remark](ScreenShots/ScreenShot3.png)|
