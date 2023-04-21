@@ -12,7 +12,6 @@ Basic features Based on the criteria found in here:
 <img src="/ScreenShots/ScreenShot1.png" height="49%" width="49%"> 
 <img src="/ScreenShots/ScreenShot2.png" height="49%" width="49%">
 <img src="/ScreenShots/ScreenShot3.png" height="49%" width="49%">
-<img src="/ScreenShots/ScreenShot4.png" height="49%" width="49%">
 ## Implementation
 
 Pitch Perfect has two Scenes:
